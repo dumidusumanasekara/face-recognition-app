@@ -1,0 +1,10 @@
+.bdr {
+    border-style: none
+}
+
+.inputContainer {
+    display: flex;
+    background: white;
+    border: 10px;
+    padding: 40px 10px;
+}
